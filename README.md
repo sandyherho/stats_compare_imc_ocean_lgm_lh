@@ -1,9 +1,11 @@
 # Supplementary Materials: "Statistical Characterization of LGM and Late Holocene Oceanography in the Indonesian Maritime Continent"
 
+
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Climate Dynamics](https://img.shields.io/badge/Climate-Dynamics-orange.svg)](https://link.springer.com/journal/382)
+
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)](https://numpy.org/)
 [![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?logo=scipy&logoColor=white)](https://scipy.org/)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
@@ -24,7 +26,7 @@ This study provides a comprehensive statistical characterization of surface ocea
 Using the lgmDA v2.1 paleoclimate data assimilation product, we analyze:
 - Sea surface temperature (SST)
 - Sea surface salinity (SSS)
-- Seawater oxygen isotope composition ($\delta^{18}$Osw)
+- Seawater oxygen isotope composition ( $\delta^{18}$ Osw)
 
 ## Repository Structure
 
@@ -138,14 +140,14 @@ The lgmDA product synthesizes marine geochemical proxy data with isotope-enabled
 ## Citation
 
 ```bibtex
-@article{mazdhania2025statistical,
+@article{mazdhania202xstatistical,
   title={Statistical Characterization of LGM and Late Holocene Oceanography in the Indonesian Maritime Continent},
   author={Mazdhania, Daffa Z. and Herho, Sandy H. S. and Anwar, Iwan P. and Khadami, Faruq and Rachmayani, Rima},
-  journal={[Journal Name]},
-  volume={[Volume]},
+  journal={xxxx},
+  volume={xxxx},
   pages={xxx},
-  year={2025},
-  publisher={[Publisher]}
+  year={202x},
+  publisher={xxxxx}
 }
 ```
 
