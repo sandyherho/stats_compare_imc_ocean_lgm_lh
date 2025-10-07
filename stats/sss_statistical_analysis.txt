@@ -1,0 +1,69 @@
+================================================================================
+VARIABLE: SSS
+================================================================================
+
+NORMALITY ASSESSMENT:
+------------------------------------------------------------
+
+LGM:
+  Tests indicating normality: 0/5
+  - shapiro_wilk: p=0.0000 (NON-NORMAL)
+  - anderson_darling: stat=123.9954 (NON-NORMAL)
+  - kolmogorov_smirnov: p=0.0000 (NON-NORMAL)
+  - dagostino_pearson: p=0.0000 (NON-NORMAL)
+  - jarque_bera: p=0.0000 (NON-NORMAL)
+  CONCLUSION: Data is NON-NORMAL
+
+Late Holocene:
+  Tests indicating normality: 0/5
+  - shapiro_wilk: p=0.0000 (NON-NORMAL)
+  - anderson_darling: stat=373.1444 (NON-NORMAL)
+  - kolmogorov_smirnov: p=0.0000 (NON-NORMAL)
+  - dagostino_pearson: p=0.0000 (NON-NORMAL)
+  - jarque_bera: p=0.0000 (NON-NORMAL)
+  CONCLUSION: Data is NON-NORMAL
+
+============================================================
+GROUP COMPARISON (NON-PARAMETRIC TESTS):
+------------------------------------------------------------
+
+Tests showing significant difference: 6/6
+
+mann_whitney_u: p=0.000000 (SIGNIFICANT)
+kruskal_wallis: p=0.000000 (SIGNIFICANT)
+moods_median: p=0.000000 (SIGNIFICANT)
+wilcoxon_ranksum: p=0.000000 (SIGNIFICANT)
+ks_2sample: p=0.000000 (SIGNIFICANT)
+epps_singleton: p=0.000000 (SIGNIFICANT)
+
+Effect Size (Cliff's Delta):
+  δ = 0.4694 (medium effect)
+  Direction: LGM > Holocene
+
+============================================================
+STATISTICAL CONCLUSION:
+------------------------------------------------------------
+✓ STRONG EVIDENCE: LGM and Late Holocene sss distributions are SIGNIFICANTLY DIFFERENT (6/6 tests)
+
+============================================================
+COMPLEXITY ANALYSIS:
+------------------------------------------------------------
+
+Shannon Entropy:
+  LGM: 3.2154
+  Holocene: 2.7189
+  Difference: 0.4965
+  LGM is MORE complex
+
+Approximate Entropy (regularity):
+  LGM: 0.5454
+  Holocene: 0.4862
+  Holocene is MORE regular
+
+Coefficient of Variation (relative variability):
+  LGM: 0.0198
+  Holocene: 0.0506
+
+
+================================================================================
+

@@ -1,0 +1,145 @@
+================================================================================
+COMPREHENSIVE STATISTICAL SUMMARY
+Last Glacial Maximum (LGM) vs Late Holocene (LH) Comparison
+================================================================================
+
+EXPLANATION OF STATISTICS:
+--------------------------------------------------------------------------------
+Mean:               Average value across all ocean grid points
+Median:             Middle value when data is sorted (50th percentile)
+Standard Deviation: Measure of variability/spread in the data
+25th Percentile:    25% of data falls below this value
+75th Percentile:    75% of data falls below this value
+Minimum:            Lowest value in the dataset
+Maximum:            Highest value in the dataset
+Location:           Latitude and Longitude where min/max values occur
+
+Anomaly = LGM - Late Holocene
+  Positive anomaly: LGM values higher than Late Holocene
+  Negative anomaly: LGM values lower than Late Holocene
+
+================================================================================
+
+
+################################################################################
+### SEA SURFACE TEMPERATURE (SST) ###
+################################################################################
+
+LGM
+--------------------------------------------------------------------------------
+Mean:               25.639469
+Median:             25.708230
+Standard Deviation: 0.887336
+25th Percentile:    25.100597
+75th Percentile:    26.343093
+Minimum:            20.831587
+  Location:         Lat -0.93°, Lon 129.31°
+Maximum:            27.015068
+  Location:         Lat 0.67°, Lon 127.06°
+
+Late Holocene
+--------------------------------------------------------------------------------
+Mean:               28.426704
+Median:             28.526278
+Standard Deviation: 0.583416
+25th Percentile:    28.063966
+75th Percentile:    28.861535
+Minimum:            26.111675
+  Location:         Lat -14.87°, Lon 91.06°
+Maximum:            29.898260
+  Location:         Lat -0.13°, Lon 107.94°
+
+Anomaly (LGM - LH)
+--------------------------------------------------------------------------------
+Mean:               -2.757860
+Median:             -2.707061
+Standard Deviation: 0.614897
+25th Percentile:    -3.225250
+75th Percentile:    -2.262691
+Minimum:            -7.910492
+  Location:         Lat -0.93°, Lon 129.31°
+Maximum:            -1.353669
+  Location:         Lat 7.17°, Lon 123.69°
+
+
+################################################################################
+### SEA SURFACE SALINITY (SSS) ###
+################################################################################
+
+LGM
+--------------------------------------------------------------------------------
+Mean:               33.777074
+Median:             34.011820
+Standard Deviation: 0.668342
+25th Percentile:    33.416490
+75th Percentile:    34.227141
+Minimum:            30.532168
+  Location:         Lat 5.80°, Lon 109.06°
+Maximum:            34.695920
+  Location:         Lat -0.67°, Lon 149.56°
+
+Late Holocene
+--------------------------------------------------------------------------------
+Mean:               32.892637
+Median:             33.517328
+Standard Deviation: 1.663995
+25th Percentile:    32.518374
+75th Percentile:    33.816786
+Minimum:            22.967697
+  Location:         Lat -2.27°, Lon 107.94°
+Maximum:            34.356941
+  Location:         Lat -14.87°, Lon 146.19°
+
+Anomaly (LGM - LH)
+--------------------------------------------------------------------------------
+Mean:               0.307201
+Median:             0.303800
+Standard Deviation: 0.419971
+25th Percentile:    0.045249
+75th Percentile:    0.559971
+Minimum:            -0.830569
+  Location:         Lat -11.09°, Lon 123.69°
+Maximum:            4.113890
+  Location:         Lat -6.01°, Lon 105.69°
+
+
+################################################################################
+### Δ18O SEAWATER (Δ18OSW) ###
+################################################################################
+
+LGM
+--------------------------------------------------------------------------------
+Mean:               0.803159
+Median:             0.842362
+Standard Deviation: 0.207545
+25th Percentile:    0.716959
+75th Percentile:    0.935421
+Minimum:            -0.165678
+  Location:         Lat 5.80°, Lon 109.06°
+Maximum:            1.154790
+  Location:         Lat -14.87°, Lon 146.19°
+
+Late Holocene
+--------------------------------------------------------------------------------
+Mean:               -0.198186
+Median:             -0.033353
+Standard Deviation: 0.439160
+25th Percentile:    -0.328848
+75th Percentile:    0.050026
+Minimum:            -2.792084
+  Location:         Lat -2.27°, Lon 107.94°
+Maximum:            0.222647
+  Location:         Lat -14.87°, Lon 146.19°
+
+Anomaly (LGM - LH)
+--------------------------------------------------------------------------------
+Mean:               0.854085
+Median:             0.843902
+Standard Deviation: 0.122859
+25th Percentile:    0.772525
+75th Percentile:    0.929245
+Minimum:            0.504513
+  Location:         Lat 5.80°, Lon 109.06°
+Maximum:            1.729895
+  Location:         Lat -6.01°, Lon 105.69°
+
