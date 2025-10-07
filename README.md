@@ -12,7 +12,7 @@
 
 This repository contains the supplementary materials, analysis code, and statistical results for the paper:
 
-**Mazdhania, D.Z., Herho, S.H.S., Anwar, I.P., Khadami, F., and Rachmayani, R. (2025).** Statistical Characterization of LGM and Late Holocene Oceanography in the Indonesian Maritime Continent. *[Journal Name]*, *[Volume]*, xxx.
+**Mazdhania, D.Z., Herho, S.H.S., Anwar, I.P., Khadami, F., and Rachmayani, R. (2025).** Statistical Characterization of LGM and Late Holocene Oceanography in the Indonesian Maritime Continent. *[xxxxx]*, *[xxxx]*, xxx.
 
 
 ## Overview
@@ -58,7 +58,7 @@ Using the lgmDA v2.1 paleoclimate data assimilation product, we analyze:
 - **Effect size**: Cliff's $\delta$ = 0.469 (medium)
 - **Spatial variability**: LGM shows reduced heterogeneity
 
-### Oxygen Isotopes ($\delta^{18}$Osw)
+### Oxygen Isotopes ( $\delta^{18}$ Osw)
 - **LGM enrichment**: 1.0‰ higher than Late Holocene
 - **Effect size**: Cliff's δ = 0.994 (large)
 - **Pattern**: Ubiquitous enrichment across domain
