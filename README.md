@@ -1,6 +1,6 @@
 # Supplementary Materials: "Statistical Characterization of LGM and Late Holocene Oceanography in the Indonesian Maritime Continent"
 
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17290699.svg)](https://doi.org/10.5281/zenodo.17290699)
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
 [![Climate Dynamics](https://img.shields.io/badge/Climate-Dynamics-orange.svg)](https://link.springer.com/journal/382)
