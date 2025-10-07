@@ -115,22 +115,6 @@ python script/stats_plot.py
 python script/stats_test.py
 ```
 
-## Output Files
-
-### Figures
-- `kde_boxplot_comparison.png`: Kernel density estimates and box-and-whisker plots for all three variables
-
-### Statistical Reports
-- **Complete Report**: `stats/complete_statistical_test_report.txt`
-  - Consolidated analysis for all variables
-  - Normality assessments
-  - Hypothesis test results
-  - Effect sizes and complexity measures
-
-- **Individual Reports**: 
-  - `stats/sst_statistical_analysis.txt`
-  - `stats/sss_statistical_analysis.txt`
-  - `stats/d18osw_statistical_analysis.txt`
 
 ## Data Source
 
