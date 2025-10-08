@@ -89,7 +89,6 @@ Using the lgmDA v2.1 paleoclimate data assimilation product, we analyze:
 ### Information-Theoretic Measures
 - Shannon Entropy (distributional complexity)
 - Approximate Entropy (regularity)
-- Sample Entropy (pattern regularity)
 - Coefficient of Variation (relative variability)
 
 ## Usage
