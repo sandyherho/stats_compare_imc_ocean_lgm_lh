@@ -14,7 +14,7 @@
 
 This repository contains the supplementary materials, analysis code, and statistical results for the paper:
 
-**Mazdhania, D.Z., Herho, S.H.S., Anwar, I.P., Khadami, F., and Rachmayani, R. (2025).** Statistical Characterization of LGM and Late Holocene Oceanography in the Indonesian Maritime Continent. *[xxxxx]*, *[xxxx]*, xxx.
+**Mazdhania, D.Z., Herho, S.H.S., Anwar, I.P., Khadami, F., and Rachmayani, R., Cahyarini, S. Y. (202X).** Statistical Characterization of LGM and Late Holocene Oceanography in the Indonesian Maritime Continent. *[xxxxx]*, *[xxxx]*, xxx.
 
 
 ## Overview
@@ -134,6 +134,7 @@ The lgmDA product synthesizes marine geochemical proxy data with isotope-enabled
 - **Iwan P. Anwar**
 - **Faruq Khadami**
 - **Rima Rachmayani**
+- **Sri Y. Cahyarini**
 
 
 ## Citation
@@ -141,7 +142,7 @@ The lgmDA product synthesizes marine geochemical proxy data with isotope-enabled
 ```bibtex
 @article{mazdhania202xstatistical,
   title={Statistical Characterization of LGM and Late Holocene Oceanography in the Indonesian Maritime Continent},
-  author={Mazdhania, Daffa Z. and Herho, Sandy H. S. and Anwar, Iwan P. and Khadami, Faruq and Rachmayani, Rima},
+  author={Mazdhania, Daffa Z. and Herho, Sandy H. S. and Anwar, Iwan P. and Khadami, Faruq and Rachmayani, Rima and Cahyarini,  Sri Y.},
   journal={xxxx},
   volume={xxxx},
   pages={xxx},
