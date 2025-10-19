@@ -14,7 +14,7 @@
 
 This repository contains the supplementary materials, analysis code, and statistical results for the paper:
 
-**Mazdhania, D.Z., Herho, S.H.S., Anwar, I.P., Khadami, F., and Rachmayani, R., Cahyarini, S. Y. (202X).** Statistical Characterization of LGM and Late Holocene Oceanography in the Indonesian Maritime Continent. *[xxxxx]*, *[xxxx]*, xxx.
+**Mazdhania, D.Z., Herho, S.H.S., Anwar, I.P., Hendrizan, M., Kaban, S. N., Khadami, F., and Rachmayani, R., Cahyarini, S. Y. (202X).** Statistical Characterization of LGM and Late Holocene Oceanography in the Indonesian Maritime Continent. *[xxxxx]*, *[xxxx]*, xxx.
 
 
 ## Overview
@@ -132,6 +132,8 @@ The lgmDA product synthesizes marine geochemical proxy data with isotope-enabled
 - **Daffa Z. Mazdhania**
 - **Sandy H. S. Herho**
 - **Iwan P. Anwar**
+- **Marfasran Hendrizan**
+- **Siti N. Kaban**
 - **Faruq Khadami**
 - **Rima Rachmayani**
 - **Sri Y. Cahyarini**
@@ -142,7 +144,7 @@ The lgmDA product synthesizes marine geochemical proxy data with isotope-enabled
 ```bibtex
 @article{mazdhania202xstatistical,
   title={Statistical Characterization of LGM and Late Holocene Oceanography in the Indonesian Maritime Continent},
-  author={Mazdhania, Daffa Z. and Herho, Sandy H. S. and Anwar, Iwan P. and Khadami, Faruq and Rachmayani, Rima and Cahyarini,  Sri Y.},
+  author={Mazdhania, Daffa Z. and Herho, Sandy H. S. and Anwar, Iwan P. and Hendrizan, M. and Kaban, Siti N. and Khadami, Faruq and Rachmayani, Rima and Cahyarini,  Sri Y.},
   journal={xxxx},
   volume={xxxx},
   pages={xxx},
@@ -160,6 +162,6 @@ This study was supported by:
 
 ## License
 
-This project is licensed under the **WTFPL (Do What The Fuck You Want To Public License)** - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **WTFPL (Do What The F*ck You Want To Public License)** - see the [LICENSE](LICENSE) file for details.
 
 **Note**: This repository contains supplementary materials for a published research article. The code is provided as-is for reproducibility and transparency purposes. No active maintenance is intended after publication.
